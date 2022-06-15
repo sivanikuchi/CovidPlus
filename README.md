@@ -15,7 +15,7 @@ I have deployed my project in Static web apps as follow <br />
   | Setting  | Value |
   | ------------- | ------------- |
   | Azure subscription	| Azure for Students |
-  | Resource Group	| Q&ACovidBot | 
+  | Resource Group	| QnABotCovid | 
   | Name	| CovidPlus | 
   | Plan type | Free | 
   | source | Github | 
