@@ -1,7 +1,7 @@
 # CovidPlus
 I have created a covid website named Covid+ using html,css,javascript,bootstrap. It helps people to know about coronavirus in detail.In the website i make four pages named home,about,services,contact.it looks like a professional website.In this pandemic situation people should aware about coronavirus and its preventions.so i have decided to create website which is helpful for people.so i make a website where i try to give more details about coronavirus, how to protect themselves from corona , preventions and advices from doctors. And i have placed a chatbot in my website using azure bot service ,this enables users to ask questions in their own words and receive relevant responses in same language.
 
-### CovidPlus website link: https://staticwebsites1.z29.web.core.windows.net/index.html
+### CovidPlus website link: https://lively-glacier-09fbe3210.1.azurestaticapps.net/
 
 ### Home page: 
 ![image](https://user-images.githubusercontent.com/92884264/171326376-403ec027-8470-4409-bb69-833a117ce64d.png)
