@@ -3,6 +3,31 @@ I have created a covid website named Covid+ using html,css,javascript,bootstrap.
 
 ### CovidPlus website link: https://lively-glacier-09fbe3210.1.azurestaticapps.net/
 
+### Deployement Procedure:
+I have deployed my project in Static web apps as follow <br />
+  1)Navigate to the [Azure portal](https://portal.azure.com/). <br />
+  2)Select Create a Resource.<br />
+  3)Search for Static Web Apps.<br />
+  4)Select Static Web Apps.<br />
+  5)Select Create.<br />
+  6)In the Basics section, begin by configuring new app.<br />
+  
+  | Setting  | Value |
+  | ------------- | ------------- |
+  | Azure subscription	| Azure for Students |
+  | Resource Group	| Q&ACovidBot | 
+  | Name	| CovidPlus | 
+  | Plan type | Free | 
+  | source | Github | 
+  | GitHub account| sivanikuchi |
+  
+  and added this git repository by linking my git account.<br />
+  7) click review+create<br />
+  8) clicl create
+  <br />
+
+
+
 ### Home page: 
 ![image](https://user-images.githubusercontent.com/92884264/171326376-403ec027-8470-4409-bb69-833a117ce64d.png)
 ![image](https://user-images.githubusercontent.com/92884264/171328663-9eddfcb2-2810-409d-8fb1-d075e86f5a4d.png)
