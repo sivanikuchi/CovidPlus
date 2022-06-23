@@ -1,8 +1,7 @@
 # CovidPlus
 I have created a covid website named Covid+ using html,css,javascript,bootstrap. It helps people to know about coronavirus in detail.In the website i make four pages named home,about,services,contact.it looks like a professional website.In this pandemic situation people should aware about coronavirus and its preventions.so i have decided to create website which is helpful for people.so i make a website where i try to give more details about coronavirus, how to protect themselves from corona , preventions and advices from doctors. And i have placed a chatbot in my website using azure bot service ,this enables users to ask questions in their own words and receive relevant responses in same language.
 
-### CovidPlus website link: https://lively-glacier-09fbe3210.1.azurestaticapps.net/
-
+### CovidPlus website link: https://sivanikuchi.github.io/CovidPlus/
 ### Deployement Procedure:
 I have deployed my project in Static web apps as follow <br />
   1)Navigate to the [Azure portal](https://portal.azure.com/). <br />
